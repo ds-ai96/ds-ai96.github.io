@@ -9,20 +9,22 @@ header:
     url   : https://github.com/ds-ai96
 
 docs-en:
-  - title:      테스트
+  - title     : Recommender System
     children:
-      - title:  테스트1
-        url:    /about.html
-      - title:  테스트2
-        url:    /2022/01/24/Link-Test-Page.html
+      - title : 용어 정리
+        url   : /2022/01/28/Recommender-System-Dict.html
 
-  - title:      이게 되냐?
+  - title     : Deep Learning
     children:
-      - title:  이걸?
-        url:    /2022/01/24/First-Test-Page.html
-      - title:  역시...
-        url:    https://github.com/ds-ai96
-#       ...
-# 게시글의 sidebar navigation의 Front Matter에 넣어주기.
-# sidebar:
-#   nav: docs-en
+      - title : 용어 정리
+        url   : /2022/01/28/Deep-Learning-Dict.html
+      
+  - title     : Machine Learning
+    children:
+      - title : 용어 정리
+        url   : /2022/01/28/Machine-Learning-Dict.html
+      
+  - title     : Linear Algebra
+    children:
+      - title : 용어 정리
+        url   : /2022/01/28/Linear-Algebra-Dict.html

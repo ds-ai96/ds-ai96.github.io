@@ -3,7 +3,7 @@
 author:
   type      : person # "person" (default), "organization"
   name      : Dasein
-  url       :
+  url       : 
   avatar    : # path or url of avatar image (square)
   bio       : I am study about Recommender System.
   email     : jener05458@gmail.com
