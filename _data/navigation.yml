@@ -11,20 +11,5 @@ header:
 docs-en:
   - title     : Recommender System
     children:
-      - title : 용어 정리
-        url   : /2022/01/28/Recommender-System-Dict.html
-
-  - title     : Deep Learning
-    children:
-      - title : 용어 정리
-        url   : /2022/01/28/Deep-Learning-Dict.html
-      
-  - title     : Machine Learning
-    children:
-      - title : 용어 정리
-        url   : /2022/01/28/Machine-Learning-Dict.html
-      
-  - title     : Linear Algebra
-    children:
-      - title : 용어 정리
-        url   : /2022/01/28/Linear-Algebra-Dict.html
+      - title : Personalized Unexpected Recommender System for Improving User Satisfaction 논문 리뷰
+        url   : /2022/02/22/RS-Paper-No1.html
