@@ -5,5 +5,7 @@ gemspec
 
 gem "tzinfo"
 gem "tzinfo-data"
+gem "jemoji"
 
 gem "webrick", "~> 1.7"
+gem "rake", "13.0.6"
